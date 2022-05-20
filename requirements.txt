@@ -1,0 +1,13 @@
+requests
+requests[socks]
+bs4
+user_agent
+ping3
+tcping
+pyping
+youtube_dl
+requests_toolbelt
+pyrogram
+tenacity
+TgCrypto
+asyncio
